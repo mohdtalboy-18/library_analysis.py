@@ -1,0 +1,901 @@
+Loan_ID,Member_ID,Book_ID,Book_Title,Author,Genre,Issue_Date,Due_Date,Return_Date,Loan_Status
+L0001,M0021,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-01-01,2025-01-15,2025-01-10,Returned
+L0002,M0053,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-01-02,2025-01-16,2025-01-10,Returned
+L0003,M0180,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-01-02,2025-01-16,2025-01-23,Returned
+L0004,M0123,B007,The Alchemist,Paulo Coelho,Fiction,2025-01-02,2025-01-16,2025-01-04,Returned
+L0005,M0133,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-01-03,2025-01-17,2025-01-10,Returned
+L0006,M0007,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-01-04,2025-01-18,2025-01-17,Returned
+L0007,M0092,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-01-04,2025-01-18,2025-01-22,Returned
+L0008,M0107,B029,Murder on the Orient Express,Agatha Christie,Mystery & Thriller,2025-01-06,2025-01-20,2025-02-01,Returned
+L0009,M0074,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-01-06,2025-01-20,2025-01-11,Returned
+L0010,M0136,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-01-06,2025-01-20,2025-01-13,Returned
+L0011,M0180,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-01-08,2025-01-22,2025-02-12,Returned
+L0012,M0177,B036,The Power of Now,Eckhart Tolle,Self-Help & Motivation,2025-01-08,2025-01-22,2025-01-27,Returned
+L0013,M0114,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-01-08,2025-01-22,2025-01-21,Returned
+L0014,M0143,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-01-09,2025-01-23,2025-01-14,Returned
+L0015,M0124,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-01-09,2025-01-23,2025-01-24,Returned
+L0016,M0028,B036,The Power of Now,Eckhart Tolle,Self-Help & Motivation,2025-01-09,2025-01-23,2025-01-16,Returned
+L0017,M0087,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-01-10,2025-01-24,2025-01-24,Returned
+L0018,M0151,B011,Pride and Prejudice,Jane Austen,Fiction,2025-01-10,2025-01-24,2025-01-28,Returned
+L0019,M0083,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-01-13,2025-01-27,2025-02-03,Returned
+L0020,M0099,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-01-13,2025-01-27,2025-01-24,Returned
+L0021,M0006,B007,The Alchemist,Paulo Coelho,Fiction,2025-01-14,2025-01-28,2025-01-25,Returned
+L0022,M0072,B007,The Alchemist,Paulo Coelho,Fiction,2025-01-14,2025-01-28,2025-01-29,Returned
+L0023,M0092,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-01-14,2025-01-28,2025-01-18,Returned
+L0024,M0037,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-01-14,2025-01-28,2025-01-18,Returned
+L0025,M0075,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-01-15,2025-01-29,2025-01-25,Returned
+L0026,M0067,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-01-15,2025-01-29,2025-02-01,Returned
+L0027,M0171,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-01-15,2025-01-29,2025-01-31,Returned
+L0028,M0131,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-01-15,2025-01-29,2025-01-20,Returned
+L0029,M0166,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-01-17,2025-01-31,2025-01-28,Returned
+L0030,M0090,B007,The Alchemist,Paulo Coelho,Fiction,2025-01-17,2025-01-31,2025-02-01,Returned
+L0031,M0049,B046,India After Gandhi,Ramachandra Guha,History & Biography,2025-01-17,2025-01-31,2025-01-21,Returned
+L0032,M0142,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-01-17,2025-01-31,2025-01-22,Returned
+L0033,M0013,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-01-18,2025-02-01,2025-01-31,Returned
+L0034,M0068,B053,The Intelligent Investor,Benjamin Graham,Business & Economics,2025-01-18,2025-02-01,2025-01-25,Returned
+L0035,M0180,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-01-20,2025-02-03,2025-01-23,Returned
+L0036,M0107,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-01-20,2025-02-03,2025-02-07,Returned
+L0037,M0125,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-01-21,2025-02-04,2025-01-28,Returned
+L0038,M0158,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-01-21,2025-02-04,2025-02-05,Returned
+L0039,M0126,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-01-21,2025-02-04,2025-02-01,Returned
+L0040,M0180,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-01-21,2025-02-04,2025-02-01,Returned
+L0041,M0113,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-01-22,2025-02-05,2025-01-25,Returned
+L0042,M0169,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-01-23,2025-02-06,2025-02-05,Returned
+L0043,M0013,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-01-23,2025-02-06,2025-02-04,Returned
+L0044,M0146,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-01-24,2025-02-07,2025-02-05,Returned
+L0045,M0049,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-01-24,2025-02-07,2025-02-07,Returned
+L0046,M0152,B050,Zero to One,Peter Thiel,Business & Economics,2025-01-24,2025-02-07,2025-02-03,Returned
+L0047,M0121,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-01-24,2025-02-07,2025-02-10,Returned
+L0048,M0052,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-01-24,2025-02-07,2025-01-31,Returned
+L0049,M0010,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-01-25,2025-02-08,2025-01-31,Returned
+L0050,M0136,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-01-27,2025-02-10,2025-02-01,Returned
+L0051,M0176,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-01-28,2025-02-11,2025-02-13,Returned
+L0052,M0083,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-01-28,2025-02-11,2025-02-03,Returned
+L0053,M0056,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-01-28,2025-02-11,2025-02-11,Returned
+L0054,M0053,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-01-29,2025-02-12,2025-02-15,Returned
+L0055,M0088,B057,Wonder,R. J. Palacio,Children & Young Adult,2025-01-29,2025-02-12,2025-02-03,Returned
+L0056,M0132,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-01-30,2025-02-13,2025-02-03,Returned
+L0057,M0076,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-01-30,2025-02-13,2025-02-11,Returned
+L0058,M0056,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-01-31,2025-02-14,2025-02-13,Returned
+L0059,M0160,B007,The Alchemist,Paulo Coelho,Fiction,2025-01-31,2025-02-14,2025-02-14,Returned
+L0060,M0117,B058,Matilda,Roald Dahl,Children & Young Adult,2025-01-31,2025-02-14,2025-02-19,Returned
+L0061,M0066,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-02-01,2025-02-15,2025-02-07,Returned
+L0062,M0088,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-02-01,2025-02-15,2025-02-07,Returned
+L0063,M0180,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-02-01,2025-02-15,2025-02-27,Returned
+L0064,M0024,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-02-03,2025-02-17,2025-02-19,Returned
+L0065,M0114,B023,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction & Fantasy,2025-02-04,2025-02-18,2025-02-08,Returned
+L0066,M0028,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-02-04,2025-02-18,2025-02-12,Returned
+L0067,M0174,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-02-04,2025-02-18,2025-02-26,Returned
+L0068,M0155,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-02-05,2025-02-19,2025-02-24,Returned
+L0069,M0146,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-02-05,2025-02-19,2025-02-13,Returned
+L0070,M0120,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-02-05,2025-02-19,2025-02-17,Returned
+L0071,M0110,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-02-05,2025-02-19,2025-02-08,Returned
+L0072,M0004,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-02-06,2025-02-20,2025-03-13,Returned
+L0073,M0108,B009,1984,George Orwell,Fiction,2025-02-06,2025-02-20,2025-02-10,Returned
+L0074,M0144,B009,1984,George Orwell,Fiction,2025-02-06,2025-02-20,2025-02-14,Returned
+L0075,M0163,B007,The Alchemist,Paulo Coelho,Fiction,2025-02-06,2025-02-20,2025-02-22,Returned
+L0076,M0146,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-02-07,2025-02-21,2025-02-10,Returned
+L0077,M0176,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-02-07,2025-02-21,2025-02-14,Returned
+L0078,M0157,B011,Pride and Prejudice,Jane Austen,Fiction,2025-02-07,2025-02-21,2025-02-12,Returned
+L0079,M0018,B046,India After Gandhi,Ramachandra Guha,History & Biography,2025-02-10,2025-02-24,2025-03-17,Returned
+L0080,M0088,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-02-10,2025-02-24,2025-02-22,Returned
+L0081,M0039,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-02-10,2025-02-24,2025-02-13,Returned
+L0082,M0150,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-02-10,2025-02-24,2025-02-17,Returned
+L0083,M0114,B052,Good to Great,Jim Collins,Business & Economics,2025-02-10,2025-02-24,2025-03-03,Returned
+L0084,M0156,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-02-10,2025-02-24,2025-02-15,Returned
+L0085,M0016,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-02-11,2025-02-25,2025-02-15,Returned
+L0086,M0176,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-02-11,2025-02-25,2025-02-18,Returned
+L0087,M0128,B012,The Guide,R. K. Narayan,Fiction,2025-02-11,2025-02-25,2025-02-22,Returned
+L0088,M0154,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-02-11,2025-02-25,2025-02-19,Returned
+L0089,M0051,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-02-12,2025-02-26,2025-03-12,Returned
+L0090,M0161,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-02-13,2025-02-27,2025-02-24,Returned
+L0091,M0149,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-02-13,2025-02-27,2025-02-28,Returned
+L0092,M0007,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-02-14,2025-02-28,2025-02-19,Returned
+L0093,M0115,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-02-14,2025-02-28,2025-03-03,Returned
+L0094,M0157,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-02-14,2025-02-28,2025-03-10,Returned
+L0095,M0072,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-02-15,2025-03-01,2025-02-21,Returned
+L0096,M0152,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-02-15,2025-03-01,2025-02-21,Returned
+L0097,M0110,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-02-15,2025-03-01,2025-02-20,Returned
+L0098,M0010,B007,The Alchemist,Paulo Coelho,Fiction,2025-02-15,2025-03-01,2025-02-28,Returned
+L0099,M0125,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-02-15,2025-03-01,2025-03-08,Returned
+L0100,M0114,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-02-17,2025-03-03,2025-02-28,Returned
+L0101,M0177,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-02-17,2025-03-03,2025-03-17,Returned
+L0102,M0107,B054,Freakonomics,Steven D. Levitt,Business & Economics,2025-02-17,2025-03-03,2025-03-04,Returned
+L0103,M0074,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-02-18,2025-03-04,2025-03-05,Returned
+L0104,M0178,B007,The Alchemist,Paulo Coelho,Fiction,2025-02-18,2025-03-04,2025-02-27,Returned
+L0105,M0113,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-02-18,2025-03-04,2025-03-04,Returned
+L0106,M0169,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-02-18,2025-03-04,2025-02-22,Returned
+L0107,M0107,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-02-18,2025-03-04,2025-02-24,Returned
+L0108,M0083,B060,Diary of a Wimpy Kid,Jeff Kinney,Children & Young Adult,2025-02-20,2025-03-06,2025-03-11,Returned
+L0109,M0066,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-02-20,2025-03-06,2025-02-28,Returned
+L0110,M0107,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-02-22,2025-03-08,2025-03-05,Returned
+L0111,M0035,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-02-22,2025-03-08,2025-03-10,Returned
+L0112,M0125,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-02-22,2025-03-08,2025-03-06,Returned
+L0113,M0007,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-02-24,2025-03-10,2025-03-01,Returned
+L0114,M0109,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-02-24,2025-03-10,2025-03-03,Returned
+L0115,M0114,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-02-24,2025-03-10,2025-03-10,Returned
+L0116,M0168,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-02-24,2025-03-10,2025-03-04,Returned
+L0117,M0139,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-02-24,2025-03-10,2025-03-11,Returned
+L0118,M0022,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-02-25,2025-03-11,2025-03-15,Returned
+L0119,M0081,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-02-25,2025-03-11,2025-03-08,Returned
+L0120,M0076,B023,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction & Fantasy,2025-02-26,2025-03-12,2025-03-06,Returned
+L0121,M0178,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-02-26,2025-03-12,2025-03-11,Returned
+L0122,M0151,B009,1984,George Orwell,Fiction,2025-02-26,2025-03-12,2025-03-21,Returned
+L0123,M0158,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-02-26,2025-03-12,2025-03-10,Returned
+L0124,M0144,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-02-26,2025-03-12,2025-03-06,Returned
+L0125,M0030,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-02-27,2025-03-13,2025-03-11,Returned
+L0126,M0139,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-02-27,2025-03-13,2025-03-10,Returned
+L0127,M0150,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-02-27,2025-03-13,2025-03-13,Returned
+L0128,M0119,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-02-28,2025-03-14,2025-03-10,Returned
+L0129,M0106,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-02-28,2025-03-14,2025-03-06,Returned
+L0130,M0074,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-02-28,2025-03-14,2025-03-17,Returned
+L0131,M0166,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-03-01,2025-03-15,2025-03-18,Returned
+L0132,M0165,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-03-03,2025-03-17,2025-03-15,Returned
+L0133,M0103,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-03-03,2025-03-17,2025-03-06,Returned
+L0134,M0179,B036,The Power of Now,Eckhart Tolle,Self-Help & Motivation,2025-03-03,2025-03-17,2025-03-26,Returned
+L0135,M0056,B009,1984,George Orwell,Fiction,2025-03-04,2025-03-18,2025-03-08,Returned
+L0136,M0010,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-03-04,2025-03-18,2025-03-17,Returned
+L0137,M0150,B058,Matilda,Roald Dahl,Children & Young Adult,2025-03-05,2025-03-19,2025-03-11,Returned
+L0138,M0055,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-03-05,2025-03-19,2025-03-19,Returned
+L0139,M0145,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-03-05,2025-03-19,2025-03-12,Returned
+L0140,M0040,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-03-06,2025-03-20,2025-03-10,Returned
+L0141,M0155,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-03-06,2025-03-20,2025-03-13,Returned
+L0142,M0026,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-03-06,2025-03-20,2025-03-24,Returned
+L0143,M0061,B057,Wonder,R. J. Palacio,Children & Young Adult,2025-03-06,2025-03-20,2025-03-28,Returned
+L0144,M0087,B007,The Alchemist,Paulo Coelho,Fiction,2025-03-07,2025-03-21,2025-03-21,Returned
+L0145,M0180,B058,Matilda,Roald Dahl,Children & Young Adult,2025-03-07,2025-03-21,2025-03-15,Returned
+L0146,M0061,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-03-07,2025-03-21,2025-03-28,Returned
+L0147,M0175,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-03-07,2025-03-21,2025-03-28,Returned
+L0148,M0110,B040,The Selfish Gene,Richard Dawkins,Science & Mathematics,2025-03-08,2025-03-22,2025-03-12,Returned
+L0149,M0035,B052,Good to Great,Jim Collins,Business & Economics,2025-03-08,2025-03-22,2025-03-21,Returned
+L0150,M0151,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-03-08,2025-03-22,2025-03-12,Returned
+L0151,M0170,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-03-08,2025-03-22,2025-03-15,Returned
+L0152,M0120,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-03-10,2025-03-24,2025-03-15,Returned
+L0153,M0048,B009,1984,George Orwell,Fiction,2025-03-10,2025-03-24,2025-03-22,Returned
+L0154,M0083,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-03-11,2025-03-25,2025-03-20,Returned
+L0155,M0132,B052,Good to Great,Jim Collins,Business & Economics,2025-03-11,2025-03-25,2025-03-15,Returned
+L0156,M0120,B009,1984,George Orwell,Fiction,2025-03-12,2025-03-26,2025-03-27,Returned
+L0157,M0083,B009,1984,George Orwell,Fiction,2025-03-12,2025-03-26,2025-03-22,Returned
+L0158,M0114,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-03-13,2025-03-27,2025-03-27,Returned
+L0159,M0026,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-03-13,2025-03-27,2025-03-29,Returned
+L0160,M0176,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-03-13,2025-03-27,2025-03-27,Returned
+L0161,M0025,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-03-14,2025-03-28,2025-03-22,Returned
+L0162,M0072,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-03-14,2025-03-28,2025-03-19,Returned
+L0163,M0074,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-03-14,2025-03-28,2025-03-31,Returned
+L0164,M0134,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-03-14,2025-03-28,2025-04-03,Returned
+L0165,M0061,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-03-14,2025-03-28,2025-04-03,Returned
+L0166,M0165,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-03-15,2025-03-29,2025-03-28,Returned
+L0167,M0119,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-03-15,2025-03-29,2025-03-27,Returned
+L0168,M0035,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-03-15,2025-03-29,2025-03-29,Returned
+L0169,M0013,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-03-17,2025-03-31,2025-03-25,Returned
+L0170,M0126,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-03-17,2025-03-31,2025-03-29,Returned
+L0171,M0060,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-03-18,2025-04-01,2025-03-22,Returned
+L0172,M0060,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-03-18,2025-04-01,2025-03-22,Returned
+L0173,M0035,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-03-18,2025-04-01,2025-03-28,Returned
+L0174,M0016,B050,Zero to One,Peter Thiel,Business & Economics,2025-03-18,2025-04-01,2025-04-05,Returned
+L0175,M0119,B007,The Alchemist,Paulo Coelho,Fiction,2025-03-18,2025-04-01,2025-03-24,Returned
+L0176,M0180,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-03-18,2025-04-01,2025-03-22,Returned
+L0177,M0132,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-03-19,2025-04-02,2025-03-28,Returned
+L0178,M0005,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-03-19,2025-04-02,2025-03-28,Returned
+L0179,M0119,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-03-20,2025-04-03,2025-03-31,Returned
+L0180,M0152,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-03-20,2025-04-03,2025-04-02,Returned
+L0181,M0180,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-03-20,2025-04-03,2025-03-27,Returned
+L0182,M0027,B057,Wonder,R. J. Palacio,Children & Young Adult,2025-03-20,2025-04-03,2025-03-22,Returned
+L0183,M0023,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-03-21,2025-04-04,2025-04-04,Returned
+L0184,M0077,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-03-21,2025-04-04,2025-04-10,Returned
+L0185,M0056,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-03-21,2025-04-04,2025-04-03,Returned
+L0186,M0167,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-03-21,2025-04-04,2025-03-27,Returned
+L0187,M0004,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-03-21,2025-04-04,2025-04-03,Returned
+L0188,M0021,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-03-22,2025-04-05,2025-04-09,Returned
+L0189,M0162,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-03-22,2025-04-05,2025-03-29,Returned
+L0190,M0048,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-03-22,2025-04-05,2025-04-03,Returned
+L0191,M0090,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-03-22,2025-04-05,2025-03-26,Returned
+L0192,M0172,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-03-22,2025-04-05,2025-04-02,Returned
+L0193,M0059,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-03-24,2025-04-07,2025-04-04,Returned
+L0194,M0023,B058,Matilda,Roald Dahl,Children & Young Adult,2025-03-24,2025-04-07,2025-04-09,Returned
+L0195,M0071,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-03-24,2025-04-07,2025-04-12,Returned
+L0196,M0003,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-03-24,2025-04-07,2025-04-02,Returned
+L0197,M0180,B052,Good to Great,Jim Collins,Business & Economics,2025-03-25,2025-04-08,2025-03-29,Returned
+L0198,M0179,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-03-26,2025-04-09,2025-04-01,Returned
+L0199,M0047,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-03-26,2025-04-09,2025-04-10,Returned
+L0200,M0151,B007,The Alchemist,Paulo Coelho,Fiction,2025-03-27,2025-04-10,2025-04-09,Returned
+L0201,M0167,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-03-27,2025-04-10,2025-04-10,Returned
+L0202,M0132,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-03-27,2025-04-10,2025-04-05,Returned
+L0203,M0072,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-03-27,2025-04-10,2025-03-29,Returned
+L0204,M0032,B059,Percy Jackson: The Lightning Thief,Rick Riordan,Children & Young Adult,2025-03-28,2025-04-11,2025-04-12,Returned
+L0205,M0090,B007,The Alchemist,Paulo Coelho,Fiction,2025-03-28,2025-04-11,2025-04-03,Returned
+L0206,M0060,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-03-28,2025-04-11,2025-04-10,Returned
+L0207,M0155,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-03-28,2025-04-11,2025-04-09,Returned
+L0208,M0153,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-03-29,2025-04-12,2025-04-07,Returned
+L0209,M0117,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-03-29,2025-04-12,2025-04-12,Returned
+L0210,M0072,B041,Fermat's Enigma,Simon Singh,Science & Mathematics,2025-03-31,2025-04-14,2025-04-14,Returned
+L0211,M0128,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-03-31,2025-04-14,2025-04-19,Returned
+L0212,M0050,B009,1984,George Orwell,Fiction,2025-03-31,2025-04-14,2025-04-24,Returned
+L0213,M0121,B007,The Alchemist,Paulo Coelho,Fiction,2025-04-01,2025-04-15,2025-04-14,Returned
+L0214,M0058,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-01,2025-04-15,2025-04-24,Returned
+L0215,M0008,B009,1984,George Orwell,Fiction,2025-04-02,2025-04-16,2025-04-16,Returned
+L0216,M0076,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-03,2025-04-17,2025-04-05,Returned
+L0217,M0119,B007,The Alchemist,Paulo Coelho,Fiction,2025-04-03,2025-04-17,2025-04-17,Returned
+L0218,M0120,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-04-04,2025-04-18,2025-05-07,Returned
+L0219,M0164,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-04,2025-04-18,2025-04-18,Returned
+L0220,M0175,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-04-05,2025-04-19,2025-04-09,Returned
+L0221,M0152,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-04-05,2025-04-19,2025-04-10,Returned
+L0222,M0032,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-07,2025-04-21,2025-04-21,Returned
+L0223,M0006,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-04-08,2025-04-22,2025-04-15,Returned
+L0224,M0066,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-04-08,2025-04-22,2025-04-18,Returned
+L0225,M0132,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-04-08,2025-04-22,2025-04-28,Returned
+L0226,M0178,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-04-09,2025-04-23,2025-04-28,Returned
+L0227,M0084,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-04-10,2025-04-24,2025-04-19,Returned
+L0228,M0071,B040,The Selfish Gene,Richard Dawkins,Science & Mathematics,2025-04-11,2025-04-25,2025-04-21,Returned
+L0229,M0167,B054,Freakonomics,Steven D. Levitt,Business & Economics,2025-04-12,2025-04-26,2025-04-24,Returned
+L0230,M0069,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-04-14,2025-04-28,2025-04-26,Returned
+L0231,M0114,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-04-14,2025-04-28,2025-04-21,Returned
+L0232,M0035,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-04-15,2025-04-29,2025-04-25,Returned
+L0233,M0145,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-15,2025-04-29,2025-04-22,Returned
+L0234,M0053,B007,The Alchemist,Paulo Coelho,Fiction,2025-04-16,2025-04-30,2025-04-26,Returned
+L0235,M0076,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-16,2025-04-30,2025-04-24,Returned
+L0236,M0121,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-16,2025-04-30,2025-04-26,Returned
+L0237,M0003,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-04-16,2025-04-30,2025-04-28,Returned
+L0238,M0148,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-04-16,2025-04-30,2025-05-02,Returned
+L0239,M0090,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-17,2025-05-01,2025-04-30,Returned
+L0240,M0167,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-17,2025-05-01,2025-04-24,Returned
+L0241,M0055,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-04-17,2025-05-01,2025-04-30,Returned
+L0242,M0165,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-04-17,2025-05-01,2025-04-23,Returned
+L0243,M0139,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-18,2025-05-02,2025-04-26,Returned
+L0244,M0048,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-04-18,2025-05-02,2025-04-26,Returned
+L0245,M0152,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-04-18,2025-05-02,2025-05-05,Returned
+L0246,M0037,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-04-19,2025-05-03,2025-05-12,Returned
+L0247,M0166,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-04-19,2025-05-03,2025-05-05,Returned
+L0248,M0071,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-04-21,2025-05-05,2025-05-03,Returned
+L0249,M0109,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-04-21,2025-05-05,2025-05-01,Returned
+L0250,M0012,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-04-21,2025-05-05,2025-04-24,Returned
+L0251,M0021,B040,The Selfish Gene,Richard Dawkins,Science & Mathematics,2025-04-21,2025-05-05,2025-05-09,Returned
+L0252,M0007,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-22,2025-05-06,2025-05-01,Returned
+L0253,M0094,B011,Pride and Prejudice,Jane Austen,Fiction,2025-04-22,2025-05-06,2025-05-13,Returned
+L0254,M0049,B007,The Alchemist,Paulo Coelho,Fiction,2025-04-22,2025-05-06,2025-05-03,Returned
+L0255,M0114,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-23,2025-05-07,2025-05-22,Returned
+L0256,M0072,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-04-23,2025-05-07,2025-05-02,Returned
+L0257,M0131,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-23,2025-05-07,2025-05-01,Returned
+L0258,M0072,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-04-23,2025-05-07,2025-05-03,Returned
+L0259,M0007,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-04-24,2025-05-08,2025-05-16,Returned
+L0260,M0117,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-04-24,2025-05-08,2025-05-12,Returned
+L0261,M0180,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-04-24,2025-05-08,2025-05-07,Returned
+L0262,M0074,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-04-25,2025-05-09,2025-05-01,Returned
+L0263,M0044,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-04-25,2025-05-09,2025-05-13,Returned
+L0264,M0078,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-25,2025-05-09,2025-05-09,Returned
+L0265,M0081,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-25,2025-05-09,2025-05-08,Returned
+L0266,M0168,B060,Diary of a Wimpy Kid,Jeff Kinney,Children & Young Adult,2025-04-26,2025-05-10,2025-05-10,Returned
+L0267,M0120,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-04-26,2025-05-10,2025-05-05,Returned
+L0268,M0042,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-04-26,2025-05-10,2025-04-30,Returned
+L0269,M0167,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-04-26,2025-05-10,2025-05-13,Returned
+L0270,M0026,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-04-28,2025-05-12,2025-05-07,Returned
+L0271,M0001,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-04-28,2025-05-12,2025-05-07,Returned
+L0272,M0123,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-04-28,2025-05-12,2025-05-13,Returned
+L0273,M0004,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-04-28,2025-05-12,2025-05-07,Returned
+L0274,M0039,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-04-28,2025-05-12,2025-05-28,Returned
+L0275,M0097,B052,Good to Great,Jim Collins,Business & Economics,2025-04-30,2025-05-14,2025-05-14,Returned
+L0276,M0026,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-04-30,2025-05-14,2025-05-13,Returned
+L0277,M0056,B050,Zero to One,Peter Thiel,Business & Economics,2025-04-30,2025-05-14,2025-05-07,Returned
+L0278,M0058,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-05-01,2025-05-15,2025-05-10,Returned
+L0279,M0168,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-05-01,2025-05-15,2025-05-16,Returned
+L0280,M0089,B007,The Alchemist,Paulo Coelho,Fiction,2025-05-01,2025-05-15,2025-05-09,Returned
+L0281,M0144,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-05-01,2025-05-15,2025-05-06,Returned
+L0282,M0056,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-05-01,2025-05-15,2025-05-03,Returned
+L0283,M0122,B059,Percy Jackson: The Lightning Thief,Rick Riordan,Children & Young Adult,2025-05-03,2025-05-17,2025-05-16,Returned
+L0284,M0097,B007,The Alchemist,Paulo Coelho,Fiction,2025-05-05,2025-05-19,2025-05-10,Returned
+L0285,M0114,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-05-05,2025-05-19,2025-05-26,Returned
+L0286,M0069,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-05-05,2025-05-19,2025-05-08,Returned
+L0287,M0068,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-05-06,2025-05-20,2025-05-16,Returned
+L0288,M0051,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-05-06,2025-05-20,2025-05-12,Returned
+L0289,M0035,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-05-08,2025-05-22,2025-05-24,Returned
+L0290,M0114,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-05-09,2025-05-23,2025-05-12,Returned
+L0291,M0105,B051,The Lean Startup,Eric Ries,Business & Economics,2025-05-09,2025-05-23,2025-05-24,Returned
+L0292,M0092,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-05-12,2025-05-26,2025-05-16,Returned
+L0293,M0099,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-05-12,2025-05-26,2025-05-17,Returned
+L0294,M0006,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-05-12,2025-05-26,2025-06-02,Returned
+L0295,M0139,B054,Freakonomics,Steven D. Levitt,Business & Economics,2025-05-13,2025-05-27,2025-05-22,Returned
+L0296,M0154,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-05-13,2025-05-27,2025-05-27,Returned
+L0297,M0070,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-05-13,2025-05-27,2025-06-06,Returned
+L0298,M0035,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-05-14,2025-05-28,2025-06-05,Returned
+L0299,M0021,B030,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery & Thriller,2025-05-14,2025-05-28,2025-05-27,Returned
+L0300,M0098,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-05-14,2025-05-28,2025-05-22,Returned
+L0301,M0004,B029,Murder on the Orient Express,Agatha Christie,Mystery & Thriller,2025-05-14,2025-05-28,2025-06-05,Returned
+L0302,M0119,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-05-15,2025-05-29,2025-06-05,Returned
+L0303,M0163,B007,The Alchemist,Paulo Coelho,Fiction,2025-05-15,2025-05-29,2025-05-26,Returned
+L0304,M0134,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-05-16,2025-05-30,2025-05-29,Returned
+L0305,M0092,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-05-16,2025-05-30,2025-06-06,Returned
+L0306,M0066,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-05-16,2025-05-30,2025-05-23,Returned
+L0307,M0157,B011,Pride and Prejudice,Jane Austen,Fiction,2025-05-16,2025-05-30,2025-05-29,Returned
+L0308,M0037,B007,The Alchemist,Paulo Coelho,Fiction,2025-05-16,2025-05-30,2025-05-22,Returned
+L0309,M0180,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-05-16,2025-05-30,2025-05-27,Returned
+L0310,M0175,B009,1984,George Orwell,Fiction,2025-05-17,2025-05-31,2025-05-29,Returned
+L0311,M0032,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-05-17,2025-05-31,2025-06-10,Returned
+L0312,M0180,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-05-19,2025-06-02,2025-06-02,Returned
+L0313,M0112,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-05-19,2025-06-02,2025-06-18,Returned
+L0314,M0173,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-05-19,2025-06-02,2025-05-23,Returned
+L0315,M0052,B053,The Intelligent Investor,Benjamin Graham,Business & Economics,2025-05-20,2025-06-03,2025-05-23,Returned
+L0316,M0107,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-05-21,2025-06-04,2025-05-24,Returned
+L0317,M0114,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-05-22,2025-06-05,2025-05-31,Returned
+L0318,M0029,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-05-22,2025-06-05,2025-06-07,Returned
+L0319,M0154,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-05-22,2025-06-05,2025-06-19,Returned
+L0320,M0115,B054,Freakonomics,Steven D. Levitt,Business & Economics,2025-05-22,2025-06-05,2025-06-05,Returned
+L0321,M0006,B007,The Alchemist,Paulo Coelho,Fiction,2025-05-22,2025-06-05,2025-05-29,Returned
+L0322,M0119,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-05-23,2025-06-06,2025-05-27,Returned
+L0323,M0060,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-05-24,2025-06-07,2025-05-30,Returned
+L0324,M0073,B012,The Guide,R. K. Narayan,Fiction,2025-05-26,2025-06-09,2025-06-07,Returned
+L0325,M0059,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-05-26,2025-06-09,2025-05-29,Returned
+L0326,M0157,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-05-26,2025-06-09,2025-05-30,Returned
+L0327,M0007,B009,1984,George Orwell,Fiction,2025-05-27,2025-06-10,2025-06-12,Returned
+L0328,M0165,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-05-28,2025-06-11,2025-06-20,Returned
+L0329,M0082,B050,Zero to One,Peter Thiel,Business & Economics,2025-05-28,2025-06-11,2025-06-14,Returned
+L0330,M0126,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-05-29,2025-06-12,2025-06-21,Returned
+L0331,M0180,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-05-29,2025-06-12,2025-06-19,Returned
+L0332,M0168,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-05-29,2025-06-12,2025-06-06,Returned
+L0333,M0026,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-05-29,2025-06-12,2025-06-07,Returned
+L0334,M0078,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-05-29,2025-06-12,2025-06-10,Returned
+L0335,M0118,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-05-31,2025-06-14,2025-06-06,Returned
+L0336,M0077,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-05-31,2025-06-14,2025-06-07,Returned
+L0337,M0035,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-06-02,2025-06-16,2025-06-21,Returned
+L0338,M0023,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-06-03,2025-06-17,2025-06-06,Returned
+L0339,M0067,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-06-05,2025-06-19,2025-06-21,Returned
+L0340,M0098,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-06-05,2025-06-19,2025-06-16,Returned
+L0341,M0095,B007,The Alchemist,Paulo Coelho,Fiction,2025-06-06,2025-06-20,2025-06-12,Returned
+L0342,M0035,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-06-07,2025-06-21,2025-06-13,Returned
+L0343,M0177,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-06-07,2025-06-21,2025-07-01,Returned
+L0344,M0018,B048,The Diary of a Young Girl,Anne Frank,History & Biography,2025-06-09,2025-06-23,2025-06-14,Returned
+L0345,M0010,B012,The Guide,R. K. Narayan,Fiction,2025-06-10,2025-06-24,2025-06-13,Returned
+L0346,M0022,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-06-11,2025-06-25,2025-06-20,Returned
+L0347,M0083,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-06-11,2025-06-25,2025-06-30,Returned
+L0348,M0042,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-06-11,2025-06-25,2025-06-28,Returned
+L0349,M0180,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-06-12,2025-06-26,2025-06-21,Returned
+L0350,M0136,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-06-13,2025-06-27,2025-06-21,Returned
+L0351,M0004,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-06-13,2025-06-27,2025-06-27,Returned
+L0352,M0180,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-06-13,2025-06-27,2025-06-25,Returned
+L0353,M0113,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-06-13,2025-06-27,2025-06-19,Returned
+L0354,M0142,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-06-14,2025-06-28,2025-07-07,Returned
+L0355,M0109,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-06-14,2025-06-28,2025-07-01,Returned
+L0356,M0129,B030,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery & Thriller,2025-06-14,2025-06-28,2025-06-20,Returned
+L0357,M0033,B051,The Lean Startup,Eric Ries,Business & Economics,2025-06-14,2025-06-28,2025-07-10,Returned
+L0358,M0157,B041,Fermat's Enigma,Simon Singh,Science & Mathematics,2025-06-16,2025-06-30,2025-06-21,Returned
+L0359,M0035,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-06-16,2025-06-30,2025-06-27,Returned
+L0360,M0107,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-06-16,2025-06-30,2025-06-20,Returned
+L0361,M0176,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-06-16,2025-06-30,2025-06-19,Returned
+L0362,M0082,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-06-17,2025-07-01,2025-07-08,Returned
+L0363,M0119,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-06-17,2025-07-01,2025-06-28,Returned
+L0364,M0163,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-06-17,2025-07-01,2025-07-01,Returned
+L0365,M0100,B059,Percy Jackson: The Lightning Thief,Rick Riordan,Children & Young Adult,2025-06-17,2025-07-01,2025-06-26,Returned
+L0366,M0004,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-06-18,2025-07-02,2025-06-23,Returned
+L0367,M0107,B007,The Alchemist,Paulo Coelho,Fiction,2025-06-18,2025-07-02,2025-07-01,Returned
+L0368,M0021,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-06-19,2025-07-03,2025-06-24,Returned
+L0369,M0010,B007,The Alchemist,Paulo Coelho,Fiction,2025-06-19,2025-07-03,2025-07-11,Returned
+L0370,M0168,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-06-19,2025-07-03,2025-06-27,Returned
+L0371,M0029,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-06-20,2025-07-04,2025-06-23,Returned
+L0372,M0154,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-06-21,2025-07-05,2025-06-24,Returned
+L0373,M0105,B012,The Guide,R. K. Narayan,Fiction,2025-06-21,2025-07-05,2025-06-25,Returned
+L0374,M0173,B036,The Power of Now,Eckhart Tolle,Self-Help & Motivation,2025-06-21,2025-07-05,2025-06-27,Returned
+L0375,M0085,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-06-21,2025-07-05,2025-06-28,Returned
+L0376,M0051,B023,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction & Fantasy,2025-06-23,2025-07-07,2025-06-27,Returned
+L0377,M0109,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-06-23,2025-07-07,2025-07-10,Returned
+L0378,M0114,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-06-24,2025-07-08,2025-06-27,Returned
+L0379,M0176,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-06-25,2025-07-09,2025-07-08,Returned
+L0380,M0006,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-06-25,2025-07-09,2025-07-05,Returned
+L0381,M0112,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-06-25,2025-07-09,2025-06-28,Returned
+L0382,M0004,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-06-25,2025-07-09,2025-07-16,Returned
+L0383,M0180,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-06-25,2025-07-09,2025-07-07,Returned
+L0384,M0151,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-06-26,2025-07-10,2025-07-21,Returned
+L0385,M0177,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-06-26,2025-07-10,2025-07-09,Returned
+L0386,M0056,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-06-26,2025-07-10,2025-07-15,Returned
+L0387,M0054,B007,The Alchemist,Paulo Coelho,Fiction,2025-06-27,2025-07-11,2025-07-08,Returned
+L0388,M0123,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-06-27,2025-07-11,2025-07-11,Returned
+L0389,M0083,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-06-27,2025-07-11,2025-07-05,Returned
+L0390,M0074,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-06-28,2025-07-12,2025-07-05,Returned
+L0391,M0017,B059,Percy Jackson: The Lightning Thief,Rick Riordan,Children & Young Adult,2025-06-30,2025-07-14,2025-07-04,Returned
+L0392,M0174,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-06-30,2025-07-14,2025-07-25,Returned
+L0393,M0023,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-07-01,2025-07-15,2025-07-14,Returned
+L0394,M0165,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-07-01,2025-07-15,2025-07-21,Returned
+L0395,M0119,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-07-01,2025-07-15,2025-07-18,Returned
+L0396,M0054,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-07-02,2025-07-16,2025-07-12,Returned
+L0397,M0074,B051,The Lean Startup,Eric Ries,Business & Economics,2025-07-02,2025-07-16,2025-07-12,Returned
+L0398,M0088,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-07-03,2025-07-17,2025-07-15,Returned
+L0399,M0007,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-07-03,2025-07-17,2025-07-15,Returned
+L0400,M0132,B053,The Intelligent Investor,Benjamin Graham,Business & Economics,2025-07-04,2025-07-18,2025-07-21,Returned
+L0401,M0003,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-07-04,2025-07-18,2025-07-12,Returned
+L0402,M0059,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-07-04,2025-07-18,2025-07-15,Returned
+L0403,M0071,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-07-04,2025-07-18,2025-07-17,Returned
+L0404,M0158,B058,Matilda,Roald Dahl,Children & Young Adult,2025-07-04,2025-07-18,2025-07-14,Returned
+L0405,M0107,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-07-04,2025-07-18,2025-07-16,Returned
+L0406,M0032,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-07-04,2025-07-18,2025-07-08,Returned
+L0407,M0114,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-07-04,2025-07-18,2025-07-17,Returned
+L0408,M0126,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-07-04,2025-07-18,2025-07-14,Returned
+L0409,M0165,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-07-05,2025-07-19,2025-07-16,Returned
+L0410,M0058,B011,Pride and Prejudice,Jane Austen,Fiction,2025-07-05,2025-07-19,2025-07-12,Returned
+L0411,M0102,B012,The Guide,R. K. Narayan,Fiction,2025-07-08,2025-07-22,2025-07-19,Returned
+L0412,M0098,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-07-08,2025-07-22,2025-07-26,Returned
+L0413,M0114,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-07-09,2025-07-23,2025-07-17,Returned
+L0414,M0120,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-07-09,2025-07-23,2025-07-16,Returned
+L0415,M0077,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-07-09,2025-07-23,2025-07-21,Returned
+L0416,M0091,B053,The Intelligent Investor,Benjamin Graham,Business & Economics,2025-07-10,2025-07-24,2025-07-19,Returned
+L0417,M0142,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-07-11,2025-07-25,2025-07-17,Returned
+L0418,M0126,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-07-11,2025-07-25,2025-07-21,Returned
+L0419,M0043,B011,Pride and Prejudice,Jane Austen,Fiction,2025-07-11,2025-07-25,2025-07-23,Returned
+L0420,M0123,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-07-11,2025-07-25,2025-07-19,Returned
+L0421,M0048,B009,1984,George Orwell,Fiction,2025-07-12,2025-07-26,2025-07-23,Returned
+L0422,M0013,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-07-14,2025-07-28,2025-07-18,Returned
+L0423,M0081,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-07-14,2025-07-28,2025-07-22,Returned
+L0424,M0126,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-07-14,2025-07-28,2025-07-26,Returned
+L0425,M0072,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-07-14,2025-07-28,2025-08-11,Returned
+L0426,M0068,B052,Good to Great,Jim Collins,Business & Economics,2025-07-14,2025-07-28,2025-07-24,Returned
+L0427,M0090,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-07-15,2025-07-29,2025-07-30,Returned
+L0428,M0168,B058,Matilda,Roald Dahl,Children & Young Adult,2025-07-16,2025-07-30,2025-07-31,Returned
+L0429,M0100,B007,The Alchemist,Paulo Coelho,Fiction,2025-07-16,2025-07-30,2025-08-12,Returned
+L0430,M0051,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-07-16,2025-07-30,2025-08-20,Returned
+L0431,M0070,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-07-17,2025-07-31,2025-07-24,Returned
+L0432,M0013,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-07-17,2025-07-31,2025-07-31,Returned
+L0433,M0060,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-07-17,2025-07-31,2025-07-29,Returned
+L0434,M0177,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-07-18,2025-08-01,2025-07-22,Returned
+L0435,M0092,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-07-19,2025-08-02,2025-08-23,Returned
+L0436,M0141,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-07-21,2025-08-04,2025-07-31,Returned
+L0437,M0106,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-07-21,2025-08-04,2025-07-29,Returned
+L0438,M0114,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-07-21,2025-08-04,2025-08-09,Returned
+L0439,M0003,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-07-21,2025-08-04,2025-07-26,Returned
+L0440,M0101,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-07-22,2025-08-05,2025-08-08,Returned
+L0441,M0066,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-07-23,2025-08-06,2025-08-08,Returned
+L0442,M0059,B007,The Alchemist,Paulo Coelho,Fiction,2025-07-23,2025-08-06,2025-08-01,Returned
+L0443,M0078,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-07-23,2025-08-06,2025-08-04,Returned
+L0444,M0032,B007,The Alchemist,Paulo Coelho,Fiction,2025-07-23,2025-08-06,2025-07-29,Returned
+L0445,M0056,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-07-23,2025-08-06,2025-07-26,Returned
+L0446,M0083,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-07-23,2025-08-06,2025-08-02,Returned
+L0447,M0178,B007,The Alchemist,Paulo Coelho,Fiction,2025-07-24,2025-08-07,2025-08-04,Returned
+L0448,M0119,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-07-24,2025-08-07,2025-08-12,Returned
+L0449,M0018,B058,Matilda,Roald Dahl,Children & Young Adult,2025-07-25,2025-08-08,2025-08-04,Returned
+L0450,M0147,B007,The Alchemist,Paulo Coelho,Fiction,2025-07-25,2025-08-08,2025-08-09,Returned
+L0451,M0039,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-07-25,2025-08-08,2025-07-30,Returned
+L0452,M0047,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-07-26,2025-08-09,2025-08-09,Returned
+L0453,M0055,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-07-26,2025-08-09,2025-08-14,Returned
+L0454,M0176,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-07-28,2025-08-11,2025-08-09,Returned
+L0455,M0043,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-07-29,2025-08-12,2025-08-07,Returned
+L0456,M0132,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-07-30,2025-08-13,2025-08-07,Returned
+L0457,M0060,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-07-30,2025-08-13,2025-08-14,Returned
+L0458,M0116,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-07-30,2025-08-13,2025-08-02,Returned
+L0459,M0152,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-07-30,2025-08-13,2025-08-13,Returned
+L0460,M0071,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-07-30,2025-08-13,2025-08-14,Returned
+L0461,M0168,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-07-31,2025-08-14,2025-08-14,Returned
+L0462,M0142,B048,The Diary of a Young Girl,Anne Frank,History & Biography,2025-07-31,2025-08-14,2025-08-02,Returned
+L0463,M0168,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-08-01,2025-08-15,2025-08-25,Returned
+L0464,M0132,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-08-01,2025-08-15,2025-08-11,Returned
+L0465,M0142,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-08-02,2025-08-16,2025-08-06,Returned
+L0466,M0004,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-08-02,2025-08-16,2025-08-08,Returned
+L0467,M0068,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-08-04,2025-08-18,2025-08-27,Returned
+L0468,M0051,B042,"Surely You're Joking, Mr. Feynman!",Richard P. Feynman,Science & Mathematics,2025-08-04,2025-08-18,2025-08-15,Returned
+L0469,M0166,B007,The Alchemist,Paulo Coelho,Fiction,2025-08-04,2025-08-18,2025-08-09,Returned
+L0470,M0162,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-05,2025-08-19,2025-08-12,Returned
+L0471,M0180,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-08-05,2025-08-19,2025-09-01,Returned
+L0472,M0173,B050,Zero to One,Peter Thiel,Business & Economics,2025-08-05,2025-08-19,2025-08-18,Returned
+L0473,M0065,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-08-05,2025-08-19,2025-08-08,Returned
+L0474,M0138,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-08-05,2025-08-19,2025-08-13,Returned
+L0475,M0145,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-08-06,2025-08-20,2025-08-16,Returned
+L0476,M0023,B040,The Selfish Gene,Richard Dawkins,Science & Mathematics,2025-08-06,2025-08-20,2025-08-23,Returned
+L0477,M0126,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-08-06,2025-08-20,2025-08-09,Returned
+L0478,M0004,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-08-07,2025-08-21,,Overdue
+L0479,M0077,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-08-07,2025-08-21,2025-08-25,Returned
+L0480,M0123,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-08-07,2025-08-21,2025-08-13,Returned
+L0481,M0083,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-08-07,2025-08-21,2025-08-26,Returned
+L0482,M0029,B042,"Surely You're Joking, Mr. Feynman!",Richard P. Feynman,Science & Mathematics,2025-08-07,2025-08-21,2025-08-22,Returned
+L0483,M0032,B059,Percy Jackson: The Lightning Thief,Rick Riordan,Children & Young Adult,2025-08-07,2025-08-21,2025-08-13,Returned
+L0484,M0146,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-08-07,2025-08-21,2025-08-25,Returned
+L0485,M0016,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-08-08,2025-08-22,2025-08-25,Returned
+L0486,M0023,B050,Zero to One,Peter Thiel,Business & Economics,2025-08-08,2025-08-22,2025-08-21,Returned
+L0487,M0017,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-08-08,2025-08-22,2025-08-14,Returned
+L0488,M0105,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-08-09,2025-08-23,2025-08-12,Returned
+L0489,M0004,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-08-09,2025-08-23,2025-08-18,Returned
+L0490,M0142,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-08-09,2025-08-23,2025-08-14,Returned
+L0491,M0040,B011,Pride and Prejudice,Jane Austen,Fiction,2025-08-09,2025-08-23,2025-08-13,Returned
+L0492,M0003,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-11,2025-08-25,2025-08-29,Returned
+L0493,M0107,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-11,2025-08-25,2025-08-19,Returned
+L0494,M0171,B023,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction & Fantasy,2025-08-11,2025-08-25,2025-08-25,Returned
+L0495,M0035,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-11,2025-08-25,2025-08-18,Returned
+L0496,M0165,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-08-11,2025-08-25,2025-08-18,Returned
+L0497,M0160,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-08-12,2025-08-26,2025-08-25,Returned
+L0498,M0169,B007,The Alchemist,Paulo Coelho,Fiction,2025-08-12,2025-08-26,2025-08-19,Returned
+L0499,M0164,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-08-12,2025-08-26,2025-08-20,Returned
+L0500,M0092,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-08-13,2025-08-27,2025-08-23,Returned
+L0501,M0088,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-08-13,2025-08-27,2025-08-30,Returned
+L0502,M0004,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-08-13,2025-08-27,2025-09-11,Returned
+L0503,M0083,B036,The Power of Now,Eckhart Tolle,Self-Help & Motivation,2025-08-13,2025-08-27,2025-08-19,Returned
+L0504,M0169,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-08-13,2025-08-27,2025-08-20,Returned
+L0505,M0161,B012,The Guide,R. K. Narayan,Fiction,2025-08-14,2025-08-28,,Overdue
+L0506,M0007,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-08-14,2025-08-28,2025-08-25,Returned
+L0507,M0139,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-08-14,2025-08-28,2025-08-28,Returned
+L0508,M0175,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-08-15,2025-08-29,2025-08-23,Returned
+L0509,M0175,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-08-15,2025-08-29,2025-09-01,Returned
+L0510,M0109,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-08-15,2025-08-29,2025-08-29,Returned
+L0511,M0083,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-08-15,2025-08-29,2025-08-29,Returned
+L0512,M0049,B041,Fermat's Enigma,Simon Singh,Science & Mathematics,2025-08-15,2025-08-29,2025-08-25,Returned
+L0513,M0174,B012,The Guide,R. K. Narayan,Fiction,2025-08-16,2025-08-30,2025-09-01,Returned
+L0514,M0068,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-08-16,2025-08-30,2025-08-23,Returned
+L0515,M0016,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-08-16,2025-08-30,2025-08-21,Returned
+L0516,M0021,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-08-16,2025-08-30,2025-08-20,Returned
+L0517,M0139,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-18,2025-09-01,2025-08-22,Returned
+L0518,M0016,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-08-18,2025-09-01,2025-09-08,Returned
+L0519,M0007,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-08-18,2025-09-01,,Overdue
+L0520,M0032,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-08-18,2025-09-01,,Overdue
+L0521,M0011,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-08-19,2025-09-02,2025-09-04,Returned
+L0522,M0100,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-08-19,2025-09-02,2025-09-04,Returned
+L0523,M0097,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-08-19,2025-09-02,2025-08-26,Returned
+L0524,M0160,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-08-19,2025-09-02,2025-08-26,Returned
+L0525,M0087,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-08-19,2025-09-02,2025-08-22,Returned
+L0526,M0045,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-19,2025-09-02,2025-09-08,Returned
+L0527,M0111,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-08-20,2025-09-03,2025-08-27,Returned
+L0528,M0163,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-08-20,2025-09-03,2025-09-01,Returned
+L0529,M0003,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-08-20,2025-09-03,2025-08-23,Returned
+L0530,M0164,B012,The Guide,R. K. Narayan,Fiction,2025-08-20,2025-09-03,2025-09-22,Returned
+L0531,M0028,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-08-21,2025-09-04,2025-09-03,Returned
+L0532,M0163,B041,Fermat's Enigma,Simon Singh,Science & Mathematics,2025-08-21,2025-09-04,2025-08-26,Returned
+L0533,M0032,B009,1984,George Orwell,Fiction,2025-08-21,2025-09-04,2025-09-04,Returned
+L0534,M0074,B051,The Lean Startup,Eric Ries,Business & Economics,2025-08-21,2025-09-04,2025-08-26,Returned
+L0535,M0076,B050,Zero to One,Peter Thiel,Business & Economics,2025-08-22,2025-09-05,2025-08-29,Returned
+L0536,M0044,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-08-22,2025-09-05,2025-09-08,Returned
+L0537,M0126,B012,The Guide,R. K. Narayan,Fiction,2025-08-22,2025-09-05,2025-09-10,Returned
+L0538,M0103,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-08-22,2025-09-05,2025-08-27,Returned
+L0539,M0114,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-08-23,2025-09-06,2025-09-12,Returned
+L0540,M0059,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-08-25,2025-09-08,2025-09-29,Returned
+L0541,M0168,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-08-25,2025-09-08,2025-09-09,Returned
+L0542,M0136,B036,The Power of Now,Eckhart Tolle,Self-Help & Motivation,2025-08-25,2025-09-08,2025-08-28,Returned
+L0543,M0092,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-25,2025-09-08,2025-09-06,Returned
+L0544,M0119,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-08-26,2025-09-09,2025-09-05,Returned
+L0545,M0134,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-08-26,2025-09-09,2025-09-04,Returned
+L0546,M0072,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-08-26,2025-09-09,2025-09-30,Returned
+L0547,M0126,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-08-26,2025-09-09,2025-08-30,Returned
+L0548,M0163,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-08-26,2025-09-09,2025-08-30,Returned
+L0549,M0091,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-08-26,2025-09-09,2025-09-11,Returned
+L0550,M0178,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-08-27,2025-09-10,2025-10-01,Returned
+L0551,M0004,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-08-27,2025-09-10,2025-09-09,Returned
+L0552,M0097,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-08-27,2025-09-10,2025-09-04,Returned
+L0553,M0008,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-08-27,2025-09-10,2025-09-18,Returned
+L0554,M0178,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-08-28,2025-09-11,2025-09-03,Returned
+L0555,M0114,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-08-28,2025-09-11,2025-09-08,Returned
+L0556,M0055,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-08-28,2025-09-11,2025-09-19,Returned
+L0557,M0010,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-08-29,2025-09-12,2025-09-05,Returned
+L0558,M0008,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-08-29,2025-09-12,2025-09-13,Returned
+L0559,M0142,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-08-29,2025-09-12,2025-09-05,Returned
+L0560,M0066,B046,India After Gandhi,Ramachandra Guha,History & Biography,2025-08-29,2025-09-12,2025-09-15,Returned
+L0561,M0105,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-08-29,2025-09-12,2025-09-02,Returned
+L0562,M0060,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-08-29,2025-09-12,2025-09-11,Returned
+L0563,M0018,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-08-30,2025-09-13,2025-09-16,Returned
+L0564,M0108,B050,Zero to One,Peter Thiel,Business & Economics,2025-08-30,2025-09-13,2025-09-12,Returned
+L0565,M0041,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-09-01,2025-09-15,2025-09-05,Returned
+L0566,M0121,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-09-01,2025-09-15,2025-09-13,Returned
+L0567,M0136,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-09-01,2025-09-15,2025-09-12,Returned
+L0568,M0082,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-09-01,2025-09-15,2025-09-12,Returned
+L0569,M0071,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-09-01,2025-09-15,2025-09-10,Returned
+L0570,M0106,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-09-01,2025-09-15,2025-09-05,Returned
+L0571,M0099,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-09-02,2025-09-16,2025-10-06,Returned
+L0572,M0126,B050,Zero to One,Peter Thiel,Business & Economics,2025-09-02,2025-09-16,2025-09-25,Returned
+L0573,M0074,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-09-02,2025-09-16,2025-09-18,Returned
+L0574,M0180,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-09-03,2025-09-17,2025-09-29,Returned
+L0575,M0137,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-09-03,2025-09-17,2025-09-10,Returned
+L0576,M0150,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-09-03,2025-09-17,2025-09-19,Returned
+L0577,M0155,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-09-03,2025-09-17,2025-09-19,Returned
+L0578,M0087,B051,The Lean Startup,Eric Ries,Business & Economics,2025-09-03,2025-09-17,2025-09-13,Returned
+L0579,M0114,B011,Pride and Prejudice,Jane Austen,Fiction,2025-09-05,2025-09-19,2025-09-22,Returned
+L0580,M0032,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-09-05,2025-09-19,2025-09-08,Returned
+L0581,M0004,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-09-05,2025-09-19,2025-09-11,Returned
+L0582,M0144,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-09-05,2025-09-19,2025-10-02,Returned
+L0583,M0114,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-09-05,2025-09-19,2025-09-17,Returned
+L0584,M0029,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-09-05,2025-09-19,2025-09-18,Returned
+L0585,M0139,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-09-05,2025-09-19,2025-09-11,Returned
+L0586,M0104,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-09-06,2025-09-20,2025-09-09,Returned
+L0587,M0022,B052,Good to Great,Jim Collins,Business & Economics,2025-09-06,2025-09-20,2025-09-17,Returned
+L0588,M0004,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-09-06,2025-09-20,2025-09-09,Returned
+L0589,M0043,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-09-06,2025-09-20,2025-09-18,Returned
+L0590,M0156,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-09-06,2025-09-20,2025-09-10,Returned
+L0591,M0179,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-09-08,2025-09-22,2025-09-26,Returned
+L0592,M0099,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-09-08,2025-09-22,2025-09-19,Returned
+L0593,M0126,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-09-08,2025-09-22,2025-09-23,Returned
+L0594,M0032,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-09-08,2025-09-22,2025-09-27,Returned
+L0595,M0173,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-09-09,2025-09-23,2025-09-25,Returned
+L0596,M0089,B057,Wonder,R. J. Palacio,Children & Young Adult,2025-09-09,2025-09-23,2025-10-03,Returned
+L0597,M0034,B046,India After Gandhi,Ramachandra Guha,History & Biography,2025-09-09,2025-09-23,2025-09-27,Returned
+L0598,M0167,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-09-09,2025-09-23,2025-09-29,Returned
+L0599,M0037,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-09-09,2025-09-23,2025-09-23,Returned
+L0600,M0070,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-09-09,2025-09-23,2025-09-19,Returned
+L0601,M0130,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-09-09,2025-09-23,2025-09-20,Returned
+L0602,M0048,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-09-09,2025-09-23,2025-09-15,Returned
+L0603,M0178,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-09-10,2025-09-24,2025-09-13,Returned
+L0604,M0070,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-09-10,2025-09-24,2025-09-13,Returned
+L0605,M0072,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-09-10,2025-09-24,2025-09-27,Returned
+L0606,M0074,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-09-10,2025-09-24,2025-09-26,Returned
+L0607,M0116,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-09-10,2025-09-24,2025-09-20,Returned
+L0608,M0024,B052,Good to Great,Jim Collins,Business & Economics,2025-09-10,2025-09-24,2025-10-03,Returned
+L0609,M0162,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-09-11,2025-09-25,2025-09-23,Returned
+L0610,M0007,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-09-11,2025-09-25,2025-09-19,Returned
+L0611,M0171,B007,The Alchemist,Paulo Coelho,Fiction,2025-09-11,2025-09-25,2025-09-20,Returned
+L0612,M0114,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-09-11,2025-09-25,2025-10-03,Returned
+L0613,M0123,B007,The Alchemist,Paulo Coelho,Fiction,2025-09-12,2025-09-26,2025-09-27,Returned
+L0614,M0133,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-09-12,2025-09-26,2025-09-17,Returned
+L0615,M0173,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-09-12,2025-09-26,2025-09-26,Returned
+L0616,M0152,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-09-12,2025-09-26,2025-10-01,Returned
+L0617,M0055,B051,The Lean Startup,Eric Ries,Business & Economics,2025-09-12,2025-09-26,2025-09-20,Returned
+L0618,M0163,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-09-13,2025-09-27,2025-09-16,Returned
+L0619,M0074,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-09-13,2025-09-27,2025-09-24,Returned
+L0620,M0114,B007,The Alchemist,Paulo Coelho,Fiction,2025-09-13,2025-09-27,2025-09-22,Returned
+L0621,M0149,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-09-13,2025-09-27,2025-09-20,Returned
+L0622,M0178,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-09-13,2025-09-27,2025-10-02,Returned
+L0623,M0046,B011,Pride and Prejudice,Jane Austen,Fiction,2025-09-15,2025-09-29,2025-10-01,Returned
+L0624,M0120,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-09-15,2025-09-29,2025-09-18,Returned
+L0625,M0167,B007,The Alchemist,Paulo Coelho,Fiction,2025-09-15,2025-09-29,2025-09-19,Returned
+L0626,M0107,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-09-15,2025-09-29,2025-09-30,Returned
+L0627,M0114,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-09-15,2025-09-29,2025-09-20,Returned
+L0628,M0058,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-09-16,2025-09-30,2025-09-24,Returned
+L0629,M0109,B054,Freakonomics,Steven D. Levitt,Business & Economics,2025-09-17,2025-10-01,2025-09-26,Returned
+L0630,M0164,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-09-17,2025-10-01,2025-09-23,Returned
+L0631,M0180,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-09-17,2025-10-01,2025-10-11,Returned
+L0632,M0113,B007,The Alchemist,Paulo Coelho,Fiction,2025-09-17,2025-10-01,2025-09-26,Returned
+L0633,M0163,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-09-17,2025-10-01,2025-09-27,Returned
+L0634,M0121,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-09-18,2025-10-02,2025-09-27,Returned
+L0635,M0012,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-09-18,2025-10-02,2025-09-22,Returned
+L0636,M0026,B040,The Selfish Gene,Richard Dawkins,Science & Mathematics,2025-09-18,2025-10-02,2025-10-11,Returned
+L0637,M0037,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-09-18,2025-10-02,2025-10-06,Returned
+L0638,M0090,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-09-18,2025-10-02,2025-10-21,Returned
+L0639,M0072,B058,Matilda,Roald Dahl,Children & Young Adult,2025-09-18,2025-10-02,2025-09-25,Returned
+L0640,M0173,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-09-18,2025-10-02,2025-09-22,Returned
+L0641,M0155,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-09-18,2025-10-02,2025-09-30,Returned
+L0642,M0069,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-09-18,2025-10-02,2025-09-25,Returned
+L0643,M0163,B007,The Alchemist,Paulo Coelho,Fiction,2025-09-18,2025-10-02,2025-09-22,Returned
+L0644,M0028,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-09-18,2025-10-02,2025-09-24,Returned
+L0645,M0059,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-09-19,2025-10-03,2025-09-29,Returned
+L0646,M0136,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-09-20,2025-10-04,2025-09-26,Returned
+L0647,M0003,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-09-20,2025-10-04,2025-10-03,Returned
+L0648,M0142,B051,The Lean Startup,Eric Ries,Business & Economics,2025-09-20,2025-10-04,2025-09-27,Returned
+L0649,M0167,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-09-20,2025-10-04,2025-10-11,Returned
+L0650,M0033,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-09-20,2025-10-04,2025-10-01,Returned
+L0651,M0055,B011,Pride and Prejudice,Jane Austen,Fiction,2025-09-20,2025-10-04,2025-10-09,Returned
+L0652,M0180,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-09-22,2025-10-06,2025-10-06,Returned
+L0653,M0043,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-09-22,2025-10-06,2025-10-27,Returned
+L0654,M0083,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-09-22,2025-10-06,2025-09-25,Returned
+L0655,M0066,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-09-22,2025-10-06,2025-09-30,Returned
+L0656,M0150,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-09-23,2025-10-07,2025-09-27,Returned
+L0657,M0032,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-09-23,2025-10-07,2025-10-07,Returned
+L0658,M0030,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-09-23,2025-10-07,2025-09-30,Returned
+L0659,M0004,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-09-23,2025-10-07,2025-10-01,Returned
+L0660,M0071,B051,The Lean Startup,Eric Ries,Business & Economics,2025-09-23,2025-10-07,2025-09-26,Returned
+L0661,M0141,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-09-24,2025-10-08,2025-10-09,Returned
+L0662,M0021,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-09-24,2025-10-08,2025-10-06,Returned
+L0663,M0169,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-09-24,2025-10-08,2025-10-04,Returned
+L0664,M0126,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-09-25,2025-10-09,2025-10-01,Returned
+L0665,M0121,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-09-25,2025-10-09,2025-10-02,Returned
+L0666,M0167,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-09-25,2025-10-09,2025-10-08,Returned
+L0667,M0176,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-09-25,2025-10-09,2025-10-29,Returned
+L0668,M0035,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-09-26,2025-10-10,2025-10-04,Returned
+L0669,M0157,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-09-26,2025-10-10,2025-09-29,Returned
+L0670,M0012,B059,Percy Jackson: The Lightning Thief,Rick Riordan,Children & Young Adult,2025-09-27,2025-10-11,2025-10-10,Returned
+L0671,M0073,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-09-27,2025-10-11,2025-10-13,Returned
+L0672,M0120,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-09-27,2025-10-11,2025-10-03,Returned
+L0673,M0032,B050,Zero to One,Peter Thiel,Business & Economics,2025-09-27,2025-10-11,2025-10-03,Returned
+L0674,M0098,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-09-27,2025-10-11,2025-10-02,Returned
+L0675,M0178,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-09-29,2025-10-13,2025-10-15,Returned
+L0676,M0089,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-09-29,2025-10-13,2025-10-20,Returned
+L0677,M0033,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-09-29,2025-10-13,2025-10-11,Returned
+L0678,M0083,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-09-30,2025-10-14,2025-10-04,Returned
+L0679,M0032,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-09-30,2025-10-14,2025-10-11,Returned
+L0680,M0136,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-09-30,2025-10-14,2025-10-04,Returned
+L0681,M0011,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-10-01,2025-10-15,2025-10-07,Returned
+L0682,M0107,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-10-02,2025-10-16,2025-10-09,Returned
+L0683,M0051,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-10-02,2025-10-16,2025-10-11,Returned
+L0684,M0054,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-10-02,2025-10-16,2025-10-06,Returned
+L0685,M0018,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-10-02,2025-10-16,,Overdue
+L0686,M0087,B029,Murder on the Orient Express,Agatha Christie,Mystery & Thriller,2025-10-03,2025-10-17,2025-10-18,Returned
+L0687,M0156,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-10-03,2025-10-17,2025-10-11,Returned
+L0688,M0054,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-10-03,2025-10-17,2025-10-09,Returned
+L0689,M0083,B054,Freakonomics,Steven D. Levitt,Business & Economics,2025-10-03,2025-10-17,2025-10-17,Returned
+L0690,M0060,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-10-04,2025-10-18,2025-10-16,Returned
+L0691,M0106,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-10-04,2025-10-18,2025-10-10,Returned
+L0692,M0021,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-10-04,2025-10-18,2025-10-27,Returned
+L0693,M0015,B007,The Alchemist,Paulo Coelho,Fiction,2025-10-04,2025-10-18,2025-10-16,Returned
+L0694,M0017,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-10-04,2025-10-18,2025-10-15,Returned
+L0695,M0119,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-10-06,2025-10-20,2025-10-11,Returned
+L0696,M0067,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-10-06,2025-10-20,2025-10-20,Returned
+L0697,M0174,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-10-07,2025-10-21,2025-10-20,Returned
+L0698,M0065,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-10-07,2025-10-21,2025-10-25,Returned
+L0699,M0102,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-10-07,2025-10-21,2025-10-13,Returned
+L0700,M0018,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-10-08,2025-10-22,2025-10-14,Returned
+L0701,M0179,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-10-08,2025-10-22,2025-10-11,Returned
+L0702,M0105,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-10-08,2025-10-22,2025-10-11,Returned
+L0703,M0157,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-10-09,2025-10-23,2025-10-23,Returned
+L0704,M0098,B007,The Alchemist,Paulo Coelho,Fiction,2025-10-09,2025-10-23,2025-10-24,Returned
+L0705,M0008,B007,The Alchemist,Paulo Coelho,Fiction,2025-10-09,2025-10-23,2025-10-13,Returned
+L0706,M0023,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-10-09,2025-10-23,2025-10-14,Returned
+L0707,M0091,B007,The Alchemist,Paulo Coelho,Fiction,2025-10-09,2025-10-23,2025-10-21,Returned
+L0708,M0142,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-10-09,2025-10-23,2025-10-11,Returned
+L0709,M0154,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-10-09,2025-10-23,2025-10-15,Returned
+L0710,M0032,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-10-09,2025-10-23,2025-10-14,Returned
+L0711,M0168,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-10-09,2025-10-23,2025-10-23,Returned
+L0712,M0120,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-10-09,2025-10-23,2025-10-23,Returned
+L0713,M0015,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-10-09,2025-10-23,2025-10-15,Returned
+L0714,M0032,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-10-10,2025-10-24,2025-10-17,Returned
+L0715,M0003,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-10-10,2025-10-24,2025-10-21,Returned
+L0716,M0037,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-10-10,2025-10-24,2025-10-15,Returned
+L0717,M0076,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-10-10,2025-10-24,2025-10-18,Returned
+L0718,M0141,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-10-11,2025-10-25,2025-10-27,Returned
+L0719,M0066,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-10-13,2025-10-27,2025-10-27,Returned
+L0720,M0074,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-10-13,2025-10-27,2025-10-20,Returned
+L0721,M0043,B050,Zero to One,Peter Thiel,Business & Economics,2025-10-13,2025-10-27,2025-10-25,Returned
+L0722,M0126,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-10-13,2025-10-27,2025-10-23,Returned
+L0723,M0096,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-10-13,2025-10-27,2025-10-24,Returned
+L0724,M0134,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-10-14,2025-10-28,2025-10-27,Returned
+L0725,M0066,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-10-14,2025-10-28,2025-10-18,Returned
+L0726,M0157,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-10-14,2025-10-28,2025-10-25,Returned
+L0727,M0004,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-10-14,2025-10-28,2025-10-18,Returned
+L0728,M0032,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-10-14,2025-10-28,2025-10-18,Returned
+L0729,M0077,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-10-14,2025-10-28,2025-10-21,Returned
+L0730,M0177,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-10-14,2025-10-28,2025-10-17,Returned
+L0731,M0114,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-10-15,2025-10-29,2025-11-06,Returned
+L0732,M0180,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-10-15,2025-10-29,2025-10-25,Returned
+L0733,M0146,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-10-15,2025-10-29,2025-11-10,Returned
+L0734,M0136,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-10-16,2025-10-30,2025-11-10,Returned
+L0735,M0146,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-10-17,2025-10-31,2025-11-03,Returned
+L0736,M0114,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-10-17,2025-10-31,2025-11-04,Returned
+L0737,M0162,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-10-17,2025-10-31,2025-10-31,Returned
+L0738,M0094,B012,The Guide,R. K. Narayan,Fiction,2025-10-17,2025-10-31,2025-10-31,Returned
+L0739,M0058,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-10-18,2025-11-01,2025-10-25,Returned
+L0740,M0077,B022,Foundation,Isaac Asimov,Science Fiction & Fantasy,2025-10-18,2025-11-01,2025-11-22,Returned
+L0741,M0137,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-10-20,2025-11-03,2025-10-25,Returned
+L0742,M0120,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-10-20,2025-11-03,2025-10-27,Returned
+L0743,M0175,B059,Percy Jackson: The Lightning Thief,Rick Riordan,Children & Young Adult,2025-10-21,2025-11-04,2025-11-10,Returned
+L0744,M0114,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-10-21,2025-11-04,2025-11-03,Returned
+L0745,M0069,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-10-21,2025-11-04,2025-10-30,Returned
+L0746,M0106,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-10-21,2025-11-04,2025-11-08,Returned
+L0747,M0172,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-10-21,2025-11-04,2025-11-04,Returned
+L0748,M0107,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-10-21,2025-11-04,2025-11-04,Returned
+L0749,M0041,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-10-22,2025-11-05,2025-11-17,Returned
+L0750,M0167,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-10-23,2025-11-06,2025-10-30,Returned
+L0751,M0007,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-10-23,2025-11-06,2025-10-25,Returned
+L0752,M0004,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-10-23,2025-11-06,2025-11-06,Returned
+L0753,M0123,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-10-24,2025-11-07,2025-11-03,Returned
+L0754,M0123,B055,Charlie and the Chocolate Factory,Roald Dahl,Children & Young Adult,2025-10-24,2025-11-07,,Overdue
+L0755,M0086,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-10-24,2025-11-07,2025-11-12,Returned
+L0756,M0163,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-10-24,2025-11-07,2025-11-28,Returned
+L0757,M0066,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-10-25,2025-11-08,2025-11-15,Returned
+L0758,M0176,B024,Ender's Game,Orson Scott Card,Science Fiction & Fantasy,2025-10-25,2025-11-08,2025-11-10,Returned
+L0759,M0029,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-10-25,2025-11-08,2025-11-08,Returned
+L0760,M0180,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-10-27,2025-11-10,2025-11-17,Returned
+L0761,M0157,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-10-27,2025-11-10,2025-10-31,Returned
+L0762,M0020,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-10-27,2025-11-10,2025-11-08,Returned
+L0763,M0012,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-10-27,2025-11-10,,Overdue
+L0764,M0062,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-10-27,2025-11-10,2025-11-05,Returned
+L0765,M0047,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-10-27,2025-11-10,2025-11-08,Returned
+L0766,M0168,B046,India After Gandhi,Ramachandra Guha,History & Biography,2025-10-28,2025-11-11,2025-11-01,Returned
+L0767,M0107,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-10-28,2025-11-11,2025-11-05,Returned
+L0768,M0079,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-10-28,2025-11-11,2025-11-04,Returned
+L0769,M0009,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-10-28,2025-11-11,2025-11-05,Returned
+L0770,M0106,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-10-28,2025-11-11,2025-10-31,Returned
+L0771,M0124,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-10-28,2025-11-11,2025-11-08,Returned
+L0772,M0086,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-10-29,2025-11-12,2025-11-13,Returned
+L0773,M0142,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-10-29,2025-11-12,2025-11-19,Returned
+L0774,M0154,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-10-29,2025-11-12,2025-11-10,Returned
+L0775,M0132,B052,Good to Great,Jim Collins,Business & Economics,2025-10-30,2025-11-13,2025-11-07,Returned
+L0776,M0136,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-10-30,2025-11-13,2025-11-08,Returned
+L0777,M0049,B007,The Alchemist,Paulo Coelho,Fiction,2025-10-30,2025-11-13,2025-11-07,Returned
+L0778,M0005,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-10-31,2025-11-14,2025-11-05,Returned
+L0779,M0180,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-10-31,2025-11-14,2025-11-04,Returned
+L0780,M0079,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-10-31,2025-11-14,2025-11-08,Returned
+L0781,M0160,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-11-01,2025-11-15,2025-11-24,Returned
+L0782,M0142,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-11-01,2025-11-15,2025-11-06,Returned
+L0783,M0165,B011,Pride and Prejudice,Jane Austen,Fiction,2025-11-01,2025-11-15,2025-11-10,Returned
+L0784,M0163,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-11-03,2025-11-17,2025-11-13,Returned
+L0785,M0082,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-11-03,2025-11-17,2025-11-10,Returned
+L0786,M0056,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-11-03,2025-11-17,2025-11-15,Returned
+L0787,M0132,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-11-04,2025-11-18,2025-11-15,Returned
+L0788,M0059,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-11-04,2025-11-18,2025-11-15,Returned
+L0789,M0092,B012,The Guide,R. K. Narayan,Fiction,2025-11-04,2025-11-18,2025-11-15,Returned
+L0790,M0054,B018,Verbal and Non-Verbal Reasoning,R. S. Aggarwal,Competitive Exams & Study Guides,2025-11-04,2025-11-18,2025-11-08,Returned
+L0791,M0036,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-11-04,2025-11-18,2025-11-11,Returned
+L0792,M0169,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-11-05,2025-11-19,2025-11-21,Returned
+L0793,M0123,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-11-05,2025-11-19,2025-11-18,Returned
+L0794,M0008,B057,Wonder,R. J. Palacio,Children & Young Adult,2025-11-06,2025-11-20,2025-11-21,Returned
+L0795,M0108,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-11-06,2025-11-20,2025-11-14,Returned
+L0796,M0033,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-11-06,2025-11-20,2025-11-19,Returned
+L0797,M0085,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-11-07,2025-11-21,2025-11-14,Returned
+L0798,M0180,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-11-07,2025-11-21,,Overdue
+L0799,M0127,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-11-07,2025-11-21,2025-11-24,Returned
+L0800,M0178,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-11-07,2025-11-21,2025-11-29,Returned
+L0801,M0049,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-11-07,2025-11-21,2025-11-14,Returned
+L0802,M0074,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-11-10,2025-11-24,2025-12-02,Returned
+L0803,M0092,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-11-10,2025-11-24,2025-11-17,Returned
+L0804,M0007,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-11-10,2025-11-24,2025-11-22,Returned
+L0805,M0034,B058,Matilda,Roald Dahl,Children & Young Adult,2025-11-11,2025-11-25,2025-11-15,Returned
+L0806,M0097,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-11-11,2025-11-25,2025-11-27,Returned
+L0807,M0110,B044,Sapiens,Yuval Noah Harari,History & Biography,2025-11-12,2025-11-26,2025-11-20,Returned
+L0808,M0106,B058,Matilda,Roald Dahl,Children & Young Adult,2025-11-12,2025-11-26,2025-11-24,Returned
+L0809,M0048,B003,Artificial Intelligence: A Modern Approach,Stuart Russell,Computer Science & AI,2025-11-12,2025-11-26,2025-11-22,Returned
+L0810,M0081,B035,Think and Grow Rich,Napoleon Hill,Self-Help & Motivation,2025-11-12,2025-11-26,2025-12-01,Returned
+L0811,M0109,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-11-13,2025-11-27,2025-11-28,Returned
+L0812,M0142,B007,The Alchemist,Paulo Coelho,Fiction,2025-11-13,2025-11-27,2025-11-24,Returned
+L0813,M0155,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-11-14,2025-11-28,2025-11-22,Returned
+L0814,M0004,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-11-14,2025-11-28,2025-12-01,Returned
+L0815,M0038,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-11-14,2025-11-28,2025-11-20,Returned
+L0816,M0007,B026,And Then There Were None,Agatha Christie,Mystery & Thriller,2025-11-14,2025-11-28,2025-12-12,Returned
+L0817,M0123,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-11-15,2025-11-29,2025-11-27,Returned
+L0818,M0040,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-11-15,2025-11-29,2025-11-26,Returned
+L0819,M0029,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-11-15,2025-11-29,2025-11-22,Returned
+L0820,M0157,B058,Matilda,Roald Dahl,Children & Young Adult,2025-11-17,2025-12-01,2025-12-03,Returned
+L0821,M0026,B041,Fermat's Enigma,Simon Singh,Science & Mathematics,2025-11-17,2025-12-01,2025-12-03,Returned
+L0822,M0117,B011,Pride and Prejudice,Jane Austen,Fiction,2025-11-17,2025-12-01,2025-11-25,Returned
+L0823,M0115,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-11-17,2025-12-01,2025-12-02,Returned
+L0824,M0107,B057,Wonder,R. J. Palacio,Children & Young Adult,2025-11-18,2025-12-02,2025-11-28,Returned
+L0825,M0048,B049,Rich Dad Poor Dad,Robert T. Kiyosaki,Business & Economics,2025-11-19,2025-12-03,2025-11-22,Returned
+L0826,M0125,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-11-19,2025-12-03,2025-11-25,Returned
+L0827,M0134,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-11-19,2025-12-03,2025-11-28,Returned
+L0828,M0175,B017,Lucent's General Knowledge,Binay Karna,Competitive Exams & Study Guides,2025-11-20,2025-12-04,2025-12-04,Returned
+L0829,M0107,B036,The Power of Now,Eckhart Tolle,Self-Help & Motivation,2025-11-21,2025-12-05,2025-11-27,Returned
+L0830,M0180,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-11-21,2025-12-05,2025-12-01,Returned
+L0831,M0098,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-11-21,2025-12-05,2025-11-26,Returned
+L0832,M0115,B047,Long Walk to Freedom,Nelson Mandela,History & Biography,2025-11-21,2025-12-05,2025-12-12,Returned
+L0833,M0022,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-11-22,2025-12-06,2025-12-02,Returned
+L0834,M0139,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-11-22,2025-12-06,2025-12-02,Returned
+L0835,M0121,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-11-24,2025-12-08,2025-12-08,Returned
+L0836,M0004,B046,India After Gandhi,Ramachandra Guha,History & Biography,2025-11-24,2025-12-08,2025-12-08,Returned
+L0837,M0072,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-11-25,2025-12-09,2025-11-29,Returned
+L0838,M0168,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-11-25,2025-12-09,2025-12-06,Returned
+L0839,M0129,B033,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help & Motivation,2025-11-25,2025-12-09,2025-12-03,Returned
+L0840,M0048,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-11-25,2025-12-09,2025-12-06,Returned
+L0841,M0036,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-11-26,2025-12-10,2025-12-09,Returned
+L0842,M0078,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-11-27,2025-12-11,2025-12-03,Returned
+L0843,M0073,B007,The Alchemist,Paulo Coelho,Fiction,2025-11-27,2025-12-11,2025-12-04,Returned
+L0844,M0137,B050,Zero to One,Peter Thiel,Business & Economics,2025-11-28,2025-12-12,2025-12-06,Returned
+L0845,M0168,B007,The Alchemist,Paulo Coelho,Fiction,2025-11-28,2025-12-12,2025-12-11,Returned
+L0846,M0014,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-11-28,2025-12-12,2025-12-02,Returned
+L0847,M0134,B034,Deep Work,Cal Newport,Self-Help & Motivation,2025-11-28,2025-12-12,2025-12-09,Returned
+L0848,M0073,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-11-28,2025-12-12,2025-12-18,Returned
+L0849,M0157,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-11-28,2025-12-12,2025-12-22,Returned
+L0850,M0139,B031,Atomic Habits,James Clear,Self-Help & Motivation,2025-11-28,2025-12-12,2025-12-08,Returned
+L0851,M0107,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-11-29,2025-12-13,2025-12-15,Returned
+L0852,M0074,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-11-29,2025-12-13,2025-12-16,Returned
+L0853,M0023,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-12-02,2025-12-16,2025-12-13,Returned
+L0854,M0178,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-12-03,2025-12-17,2025-12-13,Returned
+L0855,M0180,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-12-03,2025-12-17,2025-12-16,Returned
+L0856,M0018,B013,Quantitative Aptitude,R. S. Aggarwal,Competitive Exams & Study Guides,2025-12-03,2025-12-17,2025-12-24,Returned
+L0857,M0068,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-12-04,2025-12-18,2025-12-12,Returned
+L0858,M0177,B032,Ikigai,Hector Garcia and Francesc Miralles,Self-Help & Motivation,2025-12-04,2025-12-18,2025-12-15,Returned
+L0859,M0115,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-12-06,2025-12-20,2025-12-20,Returned
+L0860,M0164,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-12-06,2025-12-20,2025-12-25,Returned
+L0861,M0119,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-12-08,2025-12-22,2025-12-20,Returned
+L0862,M0005,B050,Zero to One,Peter Thiel,Business & Economics,2025-12-08,2025-12-22,2025-12-16,Returned
+L0863,M0066,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-12-08,2025-12-22,2025-12-15,Returned
+L0864,M0180,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-12-10,2025-12-24,2025-12-20,Returned
+L0865,M0160,B014,Indian Polity,M. Laxmikanth,Competitive Exams & Study Guides,2025-12-10,2025-12-24,2025-12-23,Returned
+L0866,M0154,B008,To Kill a Mockingbird,Harper Lee,Fiction,2025-12-10,2025-12-24,2025-12-15,Returned
+L0867,M0114,B045,The Discovery of India,Jawaharlal Nehru,History & Biography,2025-12-12,2025-12-26,2025-12-16,Returned
+L0868,M0158,B005,Automate the Boring Stuff with Python,Al Sweigart,Computer Science & AI,2025-12-12,2025-12-26,2025-12-20,Returned
+L0869,M0042,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-12-12,2025-12-26,2025-12-15,Returned
+L0870,M0167,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-12-16,2025-12-30,2025-12-20,Returned
+L0871,M0081,B028,Gone Girl,Gillian Flynn,Mystery & Thriller,2025-12-17,2025-12-31,2025-12-27,Returned
+L0872,M0021,B030,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery & Thriller,2025-12-17,2025-12-31,2025-12-30,Returned
+L0873,M0160,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-12-18,2026-01-01,2025-12-27,Returned
+L0874,M0126,B002,Introduction to Algorithms,Thomas H. Cormen,Computer Science & AI,2025-12-18,2026-01-01,,Issued
+L0875,M0146,B004,Clean Code,Robert C. Martin,Computer Science & AI,2025-12-18,2026-01-01,,Issued
+L0876,M0003,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-12-19,2026-01-02,2025-12-26,Returned
+L0877,M0155,B053,The Intelligent Investor,Benjamin Graham,Business & Economics,2025-12-19,2026-01-02,,Issued
+L0878,M0020,B037,A Brief History of Time,Stephen Hawking,Science & Mathematics,2025-12-20,2026-01-03,2025-12-31,Returned
+L0879,M0032,B019,Harry Potter and the Philosopher's Stone,J. K. Rowling,Science Fiction & Fantasy,2025-12-20,2026-01-03,2025-12-27,Returned
+L0880,M0014,B020,The Hobbit,J. R. R. Tolkien,Science Fiction & Fantasy,2025-12-20,2026-01-03,2025-12-27,Returned
+L0881,M0021,B042,"Surely You're Joking, Mr. Feynman!",Richard P. Feynman,Science & Mathematics,2025-12-20,2026-01-03,,Issued
+L0882,M0055,B021,Dune,Frank Herbert,Science Fiction & Fantasy,2025-12-20,2026-01-03,,Issued
+L0883,M0176,B038,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Science & Mathematics,2025-12-20,2026-01-03,,Issued
+L0884,M0052,B016,Concepts of Physics,H. C. Verma,Competitive Exams & Study Guides,2025-12-22,2026-01-05,,Issued
+L0885,M0167,B050,Zero to One,Peter Thiel,Business & Economics,2025-12-23,2026-01-06,2025-12-27,Returned
+L0886,M0035,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-12-24,2026-01-07,,Issued
+L0887,M0037,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-12-24,2026-01-07,,Issued
+L0888,M0007,B015,Objective General English,S. P. Bakshi,Competitive Exams & Study Guides,2025-12-25,2026-01-08,,Issued
+L0889,M0114,B011,Pride and Prejudice,Jane Austen,Fiction,2025-12-25,2026-01-08,,Issued
+L0890,M0114,B051,The Lean Startup,Eric Ries,Business & Economics,2025-12-26,2026-01-09,,Issued
+L0891,M0060,B056,The Jungle Book,Rudyard Kipling,Children & Young Adult,2025-12-26,2026-01-09,,Issued
+L0892,M0074,B006,Database System Concepts,Abraham Silberschatz,Computer Science & AI,2025-12-27,2026-01-10,,Issued
+L0893,M0163,B050,Zero to One,Peter Thiel,Business & Economics,2025-12-27,2026-01-10,,Issued
+L0894,M0048,B010,The Kite Runner,Khaled Hosseini,Fiction,2025-12-27,2026-01-10,,Issued
+L0895,M0021,B025,The Da Vinci Code,Dan Brown,Mystery & Thriller,2025-12-27,2026-01-10,,Issued
+L0896,M0154,B043,Wings of Fire,A. P. J. Abdul Kalam,History & Biography,2025-12-29,2026-01-12,,Issued
+L0897,M0028,B057,Wonder,R. J. Palacio,Children & Young Adult,2025-12-30,2026-01-13,,Issued
+L0898,M0086,B001,Python Crash Course,Eric Matthes,Computer Science & AI,2025-12-30,2026-01-13,,Issued
+L0899,M0074,B027,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery & Thriller,2025-12-31,2026-01-14,,Issued
+L0900,M0083,B039,Cosmos,Carl Sagan,Science & Mathematics,2025-12-31,2026-01-14,,Issued
